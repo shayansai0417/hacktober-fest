@@ -1,0 +1,7 @@
+{
+  "questions": [
+    {"number": 1, "prompt": "Solve 3x + 5 = 20. Show your working.", "expected_answer": "3x = 15, so x = 5", "max_marks": 40, "key_concepts": ["subtract 5 from both sides", "divide by 3", "x = 5"], "alternatives": ["equivalent inverse operations"], "criteria": ["16 marks for isolating 3x", "16 marks for x = 5", "8 marks for clear working"]},
+    {"number": 2, "prompt": "What is the area of a rectangle 8 cm long and 4 cm wide? Include units.", "expected_answer": "Area = length × width = 8 × 4 = 32 cm²", "max_marks": 30, "key_concepts": ["area formula", "32", "square centimetres"], "alternatives": ["32 square cm"], "criteria": ["12 marks for method", "12 marks for answer", "6 marks for units"]},
+    {"number": 3, "prompt": "Explain why 0.6 and 3/5 represent the same value.", "expected_answer": "Both equal six tenths; 3/5 = 6/10 = 0.6.", "max_marks": 30, "key_concepts": ["equivalent fractions", "six tenths", "decimal form"], "alternatives": [], "criteria": ["partial credit for a correct conversion"]}
+  ]
+}

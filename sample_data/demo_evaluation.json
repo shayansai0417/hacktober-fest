@@ -1,0 +1,9 @@
+{
+  "student_name": "Leena Rao",
+  "question_evaluations": [
+    {"question_number": 1, "extracted_answer": "3x + 5 = 20; 3x = 15; x = 5", "suggested_marks": 5, "explanation": "The student used inverse operations correctly and showed the complete solution.", "correct_concepts": ["subtracting 5", "dividing by 3", "x = 5"], "missing_concepts": [], "incorrect_statements": [], "feedback": "Clear working. Well done.", "confidence": 0.96, "readability": "clear", "page_number": 1, "review_required": false},
+    {"question_number": 2, "extracted_answer": "8 x 4 = 32 cm", "suggested_marks": 3, "explanation": "The area calculation is correct, but the unit is linear rather than square.", "correct_concepts": ["area formula", "32"], "missing_concepts": ["square centimetres"], "incorrect_statements": ["cm should be cm²"], "feedback": "Your method is right. Area is measured in square centimetres (cm²).", "confidence": 0.91, "readability": "clear", "page_number": 1, "review_required": false},
+    {"question_number": 3, "extracted_answer": "3/5 = 6/10 = .6", "suggested_marks": 5, "explanation": "Correctly demonstrates an equivalent fraction and its decimal form.", "correct_concepts": ["equivalent fractions", "six tenths", "decimal form"], "missing_concepts": [], "incorrect_statements": [], "feedback": "Accurate conversion and explanation.", "confidence": 0.94, "readability": "clear", "page_number": 1, "review_required": false}
+  ],
+  "overall_feedback": "Strong work on solving equations and converting fractions. Take care to use square units when finding area."
+}
